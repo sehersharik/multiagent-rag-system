@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+chunks.pkl
+results.csv
+.DS_Store
